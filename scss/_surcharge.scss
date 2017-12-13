@@ -1,0 +1,34 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+    background: white;
+    font-family: Open Sans, sans-serif;
+}
+
+* { box-sizing: border-box;}
+
+a { text-decoration: none;
+    color: #000000;}
+
+
+#menu{
+	display: none;
+}
+
+#menu li a:hover{
+}
+
+#Boma{
+	background-image: url(../IMG/BG_Coeur1.png);
+}
+
+#Cocon{
+	background-image: url(../IMG/BG_Contact.png);
+	background: no-repeat;
+}
+
+
+footer{
+	display: block;
+	background-image: url(../IMG/BG_footer.png);
+}
